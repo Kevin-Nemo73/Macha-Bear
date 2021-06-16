@@ -10,7 +10,7 @@ h1{
     font-size: 70px;
 }
 .nav-item{
-    margin-right: 180%;
+    margin-right: 30%;
     margin-left: 80%;
 }
 
@@ -38,4 +38,10 @@ p{
 }
 ul{
     list-style-type: none;
+}
+#ap{
+    margin-top: 10%;
+    text-align: center;
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 80px;
 }
